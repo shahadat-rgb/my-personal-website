@@ -1,3 +1,109 @@
 body{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+}
+.logo{
+    width: 100px;
+}
+.photo1{
+width:400px;
+padding-top:50px;
+}
+.text-padding{
+    padding:0 130px 0 170px;
+}
+.btn-type{
+    border: none;
+    background-color:#ff0066 ;
+    color: white;
+    padding:10px 30px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.paragraph{
+    color: gray;
+}
+.heading{
+    color: #ff0066;
+}
+.bg-color{
+    background-image: url(images/bg-color/header-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size:cover;
+}
+.photo4{
+    width:400px;
+}
+.h1-p-btn{
+    padding-left:60px;
+    padding-right: 145px;
+}
+
+.background-color{
+    background-image: url(images/bg-color/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.margin-bottom{
+    margin-bottom:80px;
+    
+}
+.latest-work{
+    text-align: center;
+    margin-bottom: 70px;
+}
+.img-width img{
+    width: 350px;
+      padding:10px;
+}
+.background-img{
+    background-image: url(images/bg-color/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size:cover;
+}
+.margin{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.align-item{
+    text-align: center;
+}
+.align-item p{
+margin-bottom: 0px;
+}
+.align-item h6{
+    margin-bottom: 50px;
+}
+.btn{
+    background-color: #ff0066;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 20px 50px;
+    margin-top: 40px;
+
+}
+.background-image{
+    background-image: url(images/bg-color/footer-bg.png);background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+}
+footer{
+    background-color:#131012d1;
+    color: white;
+}
+.foter{
+    text-align: center;
+    margin-top: 30px;
+}
+.underline{
+    width: 185px;
+height: 1px;
+    background-color:white ;
+    margin-bottom: 30px;
 }
